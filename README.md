@@ -15,7 +15,13 @@ mcdxa is a Python package for pricing European and American options with arbitra
 
 ## Installation
 
-Clone the repository and install in editable mode:
+Install directly from GitHub:
+
+```bash
+pip install git+https://github.com/yhilpisch/mcdxa.git
+```
+
+Or clone the repository and install in editable mode:
 
 ```bash
 git clone https://github.com/yhilpisch/mcdxa.git
